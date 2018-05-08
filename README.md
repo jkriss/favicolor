@@ -22,10 +22,8 @@ Or a favicon tag:
 
 ## Examples
 
-`favicolor steelblue` &rarr; <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAklEQVR4AewaftIAAAALSURBVGNwa9ryHwAFCgJ8ShCPgQAAAABJRU5ErkJggg==" width="15" height="15">
+`favicolor steelblue` &rarr; <span style="display: inline-block; background: steelblue; width: 15px; height: 15px;"></span>
 
+`favicolor "#bada55"` &rarr; <span style="display: inline-block; background: #bada55; width: 15px; height: 15px;"></span>
 
-`favicolor "#bada55"` &rarr; <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAklEQVR4AewaftIAAAALSURBVGPYdSv0PwAHJALp25+8NQAAAABJRU5ErkJggg==
-" width="15" height="15">
-
-`favicolor rebeccapurple` &rarr; <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAklEQVR4AewaftIAAAALSURBVGNIM575HwAEZwIyPrllTwAAAABJRU5ErkJggg==" width="15" height="15">
+`favicolor rebeccapurple` &rarr; <span style="display: inline-block; background: rebeccapurple; width: 15px; height: 15px;"></span>
