@@ -1,5 +1,5 @@
 {
-  "name": "favicolor",
+  "name": "favicon-uri",
   "version": "0.0.1",
   "description": "Create single pixel data uris for favicons",
   "keywords": ["favicon", "pixel", "datauri"],

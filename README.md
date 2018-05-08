@@ -1,6 +1,6 @@
 ## Installation
 
-`npm install --save favicolor`
+`npm install --save favicon-uri`
 
 ## Command line usage
 
