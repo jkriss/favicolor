@@ -2,14 +2,14 @@
   "name": "favicolor",
   "version": "0.0.1",
   "description": "Create single pixel data uris for favicons",
+  "keywords": ["favicon", "pixel", "datauri"],
   "main": "index.js",
   "bin": {
     "favicolor": "index.js"
   },
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "author": "Jesse Kriss <jesse@jklabs.net>",
+  "repository": "github:jkriss/favicolor",
+  "homepage": "https://github.com/jkriss/favicolor#readme",
   "license": "ISC",
   "dependencies": {
     "color": "^3.0.0",
