@@ -24,4 +24,4 @@ writer.on('finish', () => {
   console.log(datauri.format('.png', writer.getContents()).content)
 })
 
-savePixels(x, "png").pipe(writer)
+savePixels(x, 'png').pipe(writer)
