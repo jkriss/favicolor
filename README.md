@@ -22,8 +22,8 @@ Or a favicon tag:
 
 ## Examples
 
-`favicolor steelblue` &rarr; <span style="display: inline-block; background: steelblue; width: 15px; height: 15px;"></span>
+`favicolor steelblue` &rarr; <img src="examples/steelblue.png" width="15" height="15">
 
-`favicolor "#bada55"` &rarr; <span style="display: inline-block; background: #bada55; width: 15px; height: 15px;"></span>
+`favicolor "#bada55"` &rarr; <img src="examples/bada55.png" width="15" height="15">
 
-`favicolor rebeccapurple` &rarr; <span style="display: inline-block; background: rebeccapurple; width: 15px; height: 15px;"></span>
+`favicolor rebeccapurple` &rarr; <img src="examples/rebeccapurple.png" width="15" height="15">
